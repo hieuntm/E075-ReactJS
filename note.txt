@@ -1,0 +1,5 @@
+Lấy lại node_modules: npm install
+Chuyển thư mục: cd
+Kiểm tra các folder đang có: ls
+Chạy project react: npm start
+Tắt project đang chạy: Ctrl + C
