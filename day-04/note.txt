@@ -1,10 +1,15 @@
-Hiện thị thông tin cá nhân từ component => name, age, address
+B1. Hiện thị thông tin cá nhân từ component => name, age, address
 
 Nhập giá trị vào thẻ input, bao gồm name, age, address
 
-click vào button để thay đổi giá trị đã hiển thị ở trên
+click vào button/nhập vào để thay đổi giá trị đã hiển thị ở trên
 
 Sử dụng useState
 
 * Gợi ý: Sinh ra các state, tương ứng với cả name, age, address 
 binding nó vào với thẻ input, click vào thì hiện thị ra thẻ p, h1
+
+B2. Xử lý đăng nhập
+Tạo 1 state chứa mảng các account có thể đăng nhập được, bao gồm username, password
+Tạo 1 component chưa form đăng nhập
+Kiểm tra đăng nhập
