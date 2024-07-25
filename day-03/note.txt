@@ -1,0 +1,10 @@
+1. Return kết quả tại sao lại nằm trong 1 cặp thẻ
+2. <></> dùng để làm  gì. So sánh <></> và <Fragment></Fragment>
+3. Tại sao component lại viết hoa
+4. App có phải là component ko?
+
+Props:
+
+1. Props được sử dụng như thế nào?
+2. Có mấy cách sử dụng props
+3. binding dữ liệu bằng cách nào?
