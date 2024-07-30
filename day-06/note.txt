@@ -1,0 +1,8 @@
+Việc dùng ReactJS -> Component
+
+Mỗi component là 1 đoạn code nhỏ + css
+- Hoàn toàn có thể viết 1 project = 1 component => 1 component rất là to, ko đúng yeu cầu mong muốn của reactjs
+- Nhưng mà cần phải tách nhỏ, càng nhỏ càng tốt và cũng phải phù hợp với yêu cầu
+
+Khi tách nhỏ các component
+- Dữ liệu qua các component khó xuyên suốt -> Dùng props, state
