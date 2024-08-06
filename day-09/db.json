@@ -1,0 +1,90 @@
+{
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "pc": [
+    {
+      "image": "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
+      "name": "PC GVN Intel i3-12100F/ VGA GTX 1650",
+      "detail": {
+        "CPU": "I3 12100F",
+        "GPU": "GTX 1650",
+        "mainboard": "H610",
+        "ram": "8GB",
+        "disk": "250GB"
+      },
+      "price": 11590000,
+      "currentSale": "7%",
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "image": "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
+      "name": "PC GVN Intel i3-12100F/ VGA GTX 1650",
+      "detail": {
+        "CPU": "I3 12100F",
+        "GPU": "GTX 1650",
+        "mainboard": "H610",
+        "ram": "8GB",
+        "disk": "250GB"
+      },
+      "price": 11590000,
+      "currentSale": "7%",
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "image": "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
+      "name": "PC GVN Intel i3-12100F/ VGA GTX 1650",
+      "detail": {
+        "CPU": "I3 12100F",
+        "GPU": "GTX 1650",
+        "mainboard": "H610",
+        "ram": "8GB",
+        "disk": "250GB"
+      },
+      "price": 11590000,
+      "currentSale": "7%",
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "image": "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
+      "name": "PC GVN Intel i3-12100F/ VGA GTX 1650",
+      "detail": {
+        "CPU": "I3 12100F",
+        "GPU": "GTX 1650",
+        "mainboard": "H610",
+        "ram": "8GB",
+        "disk": "250GB"
+      },
+      "price": 11590000,
+      "currentSale": "7%",
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "image": "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
+      "name": "PC GVN Intel i3-12100F/ VGA GTX 1650",
+      "detail": {
+        "CPU": "I3 12100F",
+        "GPU": "GTX 1650",
+        "mainboard": "H610",
+        "ram": "8GB",
+        "disk": "250GB"
+      },
+      "price": 11590000,
+      "currentSale": "7%",
+      "rating": 0,
+      "reviews": 0
+    }
+  ]
+}

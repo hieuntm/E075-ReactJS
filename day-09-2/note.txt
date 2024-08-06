@@ -1,0 +1,2 @@
+npm install create-react-app => Tải thư viện để tạo project react
+npx create-react-app react-project => Để tạo project
