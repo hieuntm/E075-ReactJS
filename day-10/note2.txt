@@ -1,0 +1,11 @@
+
+Body 
+ => Product Mananger Component => Add, delete, update
+
+    /* Component list san pham */
+    /* Component update san pham */
+    /* Component delete san pham */
+    /* Component export san pham */
+    /* Component import san pham */
+
+Form => Phải được quản lý từ thằng cha
