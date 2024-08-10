@@ -1,0 +1,47 @@
+npx json-server -p 4000 db.json
+
+URL: http://localhost:4000/posts
+
+POST: http://localhost:4000/posts
+=> Dữ liệu truyền vào body
+=> Thêm dữ liệu
+* 1 số hệ thống, có thể dùng method PUT để thêm dữ liệu
+
+GET: http://localhost:4000/posts
+=> Không truyền vào body
+=> Lấy toàn bộ sản phẩm
+
+GET tìm theo Id: http://localhost:4000/posts/{id}
+=> Id linh động
+=> FindById
+=> Lấy 1 sản phẩm
+
+PUT và kèm theo id đằng sau: http://localhost:4000/posts/{id}
+=> Truyền dữ liệu cần update vào body
+=> Truyền vào body, và body ở dạng JSON
+{
+    "title":"Du lieu can tim"
+}
+
+Delete tìm theo Id: http://localhost:4000/posts/{id}
+=> Id linh động
+=> Không cần body
+=> DeleteById
+
+/// --------------------------------------------------------------------------
+GET tìm theo title: http://localhost:4000/posts
+=> Truyền vào body, và body ở dạng JSON
+{
+    "title":"Du lieu can tim"
+}
+
+PATCH và kèm theo id đằng sau: http://localhost:4000/posts/{id}
+=> Truyền dữ liệu cần update vào body
+=> Truyền vào body, và body ở dạng JSON
+{
+    "title":"Du lieu can tim"
+}
+
+PATCH so với PUT khác nhau ở đâu?
+- PATCH => Dùng để thay đổi 1 phần dữ liệu
+- PUT => Dùng để thay đổi toàn bộ dữ liệu của 1 tài nguyên

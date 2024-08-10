@@ -1,0 +1,19 @@
+useXXXXX => hook
+
+useState 
+useReducer => useState, phiên bản vip pro => xử lý phức tạp hơn
+
+useEffect
+useRef => Tham chiếu tới thẻ html
+=> Không làm ảnh hưởng quá trình re-render
+
+useMemo => Nhớ kết quả của 1 function, phụ thuộc vào dependency
+useCallBack => Nhớ 1 function, phụ thuộc vào dependency
+=> Sử dụng cho performance
+
+useContext => globalState quản lý state toàn cục 
+=> react cung cap
+
+=> custom de tu tao hook moi => customHook
+
+memo => High Order Component, bọc component 
