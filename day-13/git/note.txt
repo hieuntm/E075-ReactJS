@@ -1,0 +1,30 @@
+https://git-scm.com/downloads
+
+git init => tạo thư mục git hiện tại
+git clone => kéo code từ repository xuống máy
+
+git status => check sự thay đổi của branch hiện tại
+
+git branch => Kiểm tra xem chúng ta đang ở nhánh nào
+git branch <name> => tạo ra nhánh <name>
+
+git checkout <name> => Chuyển nhánh từ branch hiện tại sang branch <name>
+
+// Lặp đi lặp lại
+B1. git add . // git add <fileUrl> => Thêm file thay đổi vào Staging
+// add . => Thêm toàn bộ file đã thay đổi
+// add <url> => add 1 file
+B2. git commit -m "<message>" => Commit code + message to local
+B3. git push => đẩy code lên trên remote
+* Khi muốn chuyển nhánh thì tất cả các file code đã thay đổi, phải được commit (B2).
+
+BÀI TẬP:
+Tạo account GitHub
+Tạo 1 public repository ở trên Github 
+Đẩy toàn bộ code ở local machine lên trên repository 
+
+Tạo 1 nhánh tên là "Urgent bug"
+Thay đổi ít nhất 10 file
+Rồi commit code lên nhánh Urgent bug
+
+Share Repository link lên classroom
